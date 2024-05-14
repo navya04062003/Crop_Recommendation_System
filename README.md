@@ -1,5 +1,5 @@
 # Crop_Recommendation_System
-
+# use sklearn version 1.2.2(specific)
 # Introduction :
 In the realm of agriculture, where traditional knowledge meets cutting-edge technology, the Crop Recommendation System is revolutionizing how farmers choose crops. By taking into account the mineral composition of the soil, including potassium, nitrogen, and phosphorous, as well as factors like humidity, temperature, and rainfall, this data-driven project is empowering farmers with precise recommendations. In this blog, we'll delve deeper into how these critical factors play a pivotal role in the decision-making process.
 
